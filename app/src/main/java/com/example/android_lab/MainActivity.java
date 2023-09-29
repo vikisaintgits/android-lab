@@ -10,7 +10,7 @@ import android.widget.ListView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-    String arr[]={"Akash","Vishnu","Unni","Sreelakshmi"};
+    String arr[]={"MCA","BTech","MBA","BSc","MSc","MTech"};
     ListView l1;
     ArrayAdapter <String> arrAdapter;
     @Override
